@@ -1,6 +1,4 @@
-# Getting Started with Create React App :
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chatbot
 
 # Available Scripts in this project :
 
@@ -32,4 +30,6 @@ to run the project : ( http://localhost:3000 )
 ### Enjoy !
 
 # You can add the chatbot at any react project !
+
+### Demo : https://chatbot-app-slim.herokuapp.com/
  
