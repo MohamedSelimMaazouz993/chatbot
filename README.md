@@ -4,6 +4,10 @@
 
 In the project directory, you can run:
 
+### `npm-check-updates -u`
+To update dependencies to the last version
+
+
 ### `npm install`
 
 to install the depedencies for the project .
